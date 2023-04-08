@@ -1,0 +1,112 @@
+{
+  "uid" : "c43135f5e3b51cde",
+  "name" : "TestHelpCenterPageURL",
+  "fullName" : "testcases.DarazHelpCenterPageTest.TestHelpCenterPageURL",
+  "historyId" : "e7d3f34355da453929510cf98bf4d604",
+  "time" : {
+    "start" : 1679153186357,
+    "stop" : 1679153197226,
+    "duration" : 10869
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "setBrowser",
+    "time" : {
+      "start" : 1679153185379,
+      "stop" : 1679153186352,
+      "duration" : 973
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a4430fdf5133ea64",
+      "name" : "Help Chenter Page",
+      "source" : "a4430fdf5133ea64.png",
+      "type" : "image/png",
+      "size" : 107334
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "quitBrowser",
+    "time" : {
+      "start" : 1679153197230,
+      "stop" : 1679153198127,
+      "duration" : 897
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "testcases.DarazHelpCenterPageTest"
+  }, {
+    "name" : "testClass",
+    "value" : "testcases.DarazHelpCenterPageTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestHelpCenterPageURL"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "testcases.DarazHelpCenterPageTest"
+  }, {
+    "name" : "host",
+    "value" : "arfoysal"
+  }, {
+    "name" : "thread",
+    "value" : "16056@arfoysal.TestNG-test=Test-2(17)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c43135f5e3b51cde.json",
+  "parameterValues" : [ ]
+}

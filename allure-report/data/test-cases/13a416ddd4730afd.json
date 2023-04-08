@@ -1,0 +1,129 @@
+{
+  "uid" : "13a416ddd4730afd",
+  "name" : "testLoginwithInvalidPhoneNumber",
+  "fullName" : "testcases.DarazLoginPageTest.testLoginwithInvalidPhoneNumber",
+  "historyId" : "385ab3d89fe2b039256cb1964ecca4c6",
+  "time" : {
+    "start" : 1679154601167,
+    "stop" : 1679154643865,
+    "duration" : 42698
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "setBrowser",
+    "time" : {
+      "start" : 1679154600137,
+      "stop" : 1679154601161,
+      "duration" : 1024
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "601c16d0f3b576e8",
+      "name" : "Login Info",
+      "source" : "601c16d0f3b576e8.png",
+      "type" : "image/png",
+      "size" : 148368
+    }, {
+      "uid" : "bef71729a6595ecb",
+      "name" : "Login",
+      "source" : "bef71729a6595ecb.png",
+      "type" : "image/png",
+      "size" : 152000
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "quitBrowser",
+    "time" : {
+      "start" : 1679154643867,
+      "stop" : 1679154644559,
+      "duration" : 692
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "testcases.DarazLoginPageTest"
+  }, {
+    "name" : "testClass",
+    "value" : "testcases.DarazLoginPageTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "testLoginwithInvalidPhoneNumber"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "testcases.DarazLoginPageTest"
+  }, {
+    "name" : "host",
+    "value" : "arfoysal"
+  }, {
+    "name" : "thread",
+    "value" : "4316@arfoysal.TestNG-test=Test-1(16)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : "01757921769"
+  }, {
+    "name" : "arg1",
+    "value" : " ......7"
+  }, {
+    "name" : "arg2",
+    "value" : "Incorrect username or password."
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "13a416ddd4730afd.json",
+  "parameterValues" : [ "01757921769", " ......7", "Incorrect username or password." ]
+}

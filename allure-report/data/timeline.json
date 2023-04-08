@@ -1,0 +1,368 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "arfoysal",
+    "children" : [ {
+      "name" : "11564@arfoysal.TestNG-test=Test-2(17)",
+      "children" : [ {
+        "name" : "Test Help center page Title",
+        "uid" : "8ae4426c8c5a39a7",
+        "parentUid" : "e37d7401e247ac8e928b186d23472b41",
+        "status" : "passed",
+        "time" : {
+          "start" : 1679153503402,
+          "stop" : 1679153516036,
+          "duration" : 12634
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestHelpCenterPageURL",
+        "uid" : "78093b41626268f9",
+        "parentUid" : "e37d7401e247ac8e928b186d23472b41",
+        "status" : "passed",
+        "time" : {
+          "start" : 1679153517711,
+          "stop" : 1679153529827,
+          "duration" : 12116
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e37d7401e247ac8e928b186d23472b41"
+    }, {
+      "name" : "4316@arfoysal.TestNG-test=Test-2(17)",
+      "children" : [ {
+        "name" : "Test Help center page Title",
+        "uid" : "57577b167162df1c",
+        "parentUid" : "7fd39450224bd31f82285511da208e24",
+        "status" : "passed",
+        "time" : {
+          "start" : 1679154579008,
+          "stop" : 1679154590911,
+          "duration" : 11903
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 3,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestHelpCenterPageURL",
+        "uid" : "7cb7a22cfbd7de0b",
+        "parentUid" : "7fd39450224bd31f82285511da208e24",
+        "status" : "passed",
+        "time" : {
+          "start" : 1679154593898,
+          "stop" : 1679154606630,
+          "duration" : 12732
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 2,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7fd39450224bd31f82285511da208e24"
+    }, {
+      "name" : "16056@arfoysal.TestNG-test=Test-2(17)",
+      "children" : [ {
+        "name" : "TestHelpCenterPageTitle",
+        "uid" : "2ae1a0c257c51a1b",
+        "parentUid" : "76f5caa0eddc47ab40aa662ff210428f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1679153173229,
+          "stop" : 1679153184641,
+          "duration" : 11412
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestHelpCenterPageURL",
+        "uid" : "c43135f5e3b51cde",
+        "parentUid" : "76f5caa0eddc47ab40aa662ff210428f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1679153186357,
+          "stop" : 1679153197226,
+          "duration" : 10869
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "76f5caa0eddc47ab40aa662ff210428f"
+    }, {
+      "name" : "4624@arfoysal.main(1)",
+      "children" : [ {
+        "name" : "testLoginwithInvalidPhoneNumber",
+        "uid" : "69f05e9d9242fd34",
+        "parentUid" : "0fd32a32233ea24f72158fb77f2e2c38",
+        "status" : "failed",
+        "time" : {
+          "start" : 1679154479836,
+          "stop" : 1679154492986,
+          "duration" : 13150
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "01757921769", " ......7", "Incorrect username or password" ]
+      }, {
+        "name" : "testLoginwithInvalidPhoneNumber",
+        "uid" : "11ac799498d6ff63",
+        "parentUid" : "0fd32a32233ea24f72158fb77f2e2c38",
+        "status" : "failed",
+        "time" : {
+          "start" : 1679154512621,
+          "stop" : 1679154526112,
+          "duration" : 13491
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "abc@c.com", " abc@c.com", "Incorrect username or password" ]
+      }, {
+        "name" : "testLoginwithInvalidPhoneNumber",
+        "uid" : "fd4a3afd5d8df6c1",
+        "parentUid" : "0fd32a32233ea24f72158fb77f2e2c38",
+        "status" : "failed",
+        "time" : {
+          "start" : 1679154494612,
+          "stop" : 1679154511023,
+          "duration" : 16411
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1866733730", "123456789", "Incorrect username or password" ]
+      }, {
+        "name" : "testLoginwithInvalidPhoneNumber",
+        "uid" : "812d22231108cdb2",
+        "parentUid" : "0fd32a32233ea24f72158fb77f2e2c38",
+        "status" : "passed",
+        "time" : {
+          "start" : 1679154459395,
+          "stop" : 1679154478130,
+          "duration" : 18735
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "0111111111", "password", "Please enter a valid phone number." ]
+      } ],
+      "uid" : "0fd32a32233ea24f72158fb77f2e2c38"
+    }, {
+      "name" : "4316@arfoysal.TestNG-test=Test-1(16)",
+      "children" : [ {
+        "name" : "testLoginwithInvalidPhoneNumber",
+        "uid" : "13a416ddd4730afd",
+        "parentUid" : "ed1d2492f4bdb6e5324c8fef58468408",
+        "status" : "passed",
+        "time" : {
+          "start" : 1679154601167,
+          "stop" : 1679154643865,
+          "duration" : 42698
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "01757921769", " ......7", "Incorrect username or password." ]
+      }, {
+        "name" : "testLoginwithInvalidPhoneNumber",
+        "uid" : "aaf710ce11346486",
+        "parentUid" : "ed1d2492f4bdb6e5324c8fef58468408",
+        "status" : "passed",
+        "time" : {
+          "start" : 1679154580782,
+          "stop" : 1679154599452,
+          "duration" : 18670
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ "0111111111", "password", "Please enter a valid phone number." ]
+      }, {
+        "name" : "testLoginwithInvalidPhoneNumber",
+        "uid" : "aa231444400374f9",
+        "parentUid" : "ed1d2492f4bdb6e5324c8fef58468408",
+        "status" : "passed",
+        "time" : {
+          "start" : 1679154667589,
+          "stop" : 1679154822223,
+          "duration" : 154634
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "abc@c.com", " abc@c.com", "Incorrect username or password." ]
+      }, {
+        "name" : "testLoginwithInvalidPhoneNumber",
+        "uid" : "4f797fb8c90d707b",
+        "parentUid" : "ed1d2492f4bdb6e5324c8fef58468408",
+        "status" : "passed",
+        "time" : {
+          "start" : 1679154645434,
+          "stop" : 1679154665835,
+          "duration" : 20401
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1866733730", "123456789", "Incorrect username or password." ]
+      } ],
+      "uid" : "ed1d2492f4bdb6e5324c8fef58468408"
+    }, {
+      "name" : "16056@arfoysal.TestNG-test=Test-1(16)",
+      "children" : [ {
+        "name" : "testLoginwithInvalidPhoneNumber",
+        "uid" : "c1f7012d3118399c",
+        "parentUid" : "a94092ac86b672f60fc5b6e3933097c2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1679153174522,
+          "stop" : 1679153199148,
+          "duration" : 24626
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a94092ac86b672f60fc5b6e3933097c2"
+    }, {
+      "name" : "9276@arfoysal.TestNG-test=Test-1(15)",
+      "children" : [ {
+        "name" : "testLoginwithInvalidPhoneNumber",
+        "uid" : "21b9f01ce271c1b3",
+        "parentUid" : "05d2074f7a7ff9a2e274eb5dc1dd1df7",
+        "status" : "broken",
+        "time" : {
+          "start" : 1678638799324,
+          "stop" : 1678638976847,
+          "duration" : 177523
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "05d2074f7a7ff9a2e274eb5dc1dd1df7"
+    }, {
+      "name" : "9276@arfoysal.TestNG-test=Test-2(16)",
+      "children" : [ {
+        "name" : "TestHelpCenterPageTitle2",
+        "uid" : "5b92e06313efb429",
+        "parentUid" : "e58dbe1909bd335ae470a9f0cb20e16e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1678638850953,
+          "stop" : 1678638888926,
+          "duration" : 37973
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestHelpCenterPageTitle",
+        "uid" : "4b70e7fcbb58e45c",
+        "parentUid" : "e58dbe1909bd335ae470a9f0cb20e16e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1678638798106,
+          "stop" : 1678638848677,
+          "duration" : 50571
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e58dbe1909bd335ae470a9f0cb20e16e"
+    }, {
+      "name" : "11564@arfoysal.TestNG-test=Test-1(16)",
+      "children" : [ {
+        "name" : "testLoginwithInvalidPhoneNumber",
+        "uid" : "d3a6ebde0feb7c77",
+        "parentUid" : "99760907ed31aeadb1858af7c9b187f1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1679153502123,
+          "stop" : 1679153520217,
+          "duration" : 18094
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 2,
+        "retriesStatusChange" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "99760907ed31aeadb1858af7c9b187f1"
+    } ],
+    "uid" : "36cc7138fe5b8ff3d7780faedde3c42c"
+  } ]
+}

@@ -1,0 +1,64 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "expected [Incorrect username or password] but found [Incorrect username or password.]",
+      "children" : [ {
+        "name" : "testLoginwithInvalidPhoneNumber",
+        "uid" : "69f05e9d9242fd34",
+        "parentUid" : "fbd6226f5ebc755ee924a49258d70c4e",
+        "status" : "failed",
+        "time" : {
+          "start" : 1679154479836,
+          "stop" : 1679154492986,
+          "duration" : 13150
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "01757921769", " ......7", "Incorrect username or password" ]
+      }, {
+        "name" : "testLoginwithInvalidPhoneNumber",
+        "uid" : "fd4a3afd5d8df6c1",
+        "parentUid" : "fbd6226f5ebc755ee924a49258d70c4e",
+        "status" : "failed",
+        "time" : {
+          "start" : 1679154494612,
+          "stop" : 1679154511023,
+          "duration" : 16411
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "1866733730", "123456789", "Incorrect username or password" ]
+      }, {
+        "name" : "testLoginwithInvalidPhoneNumber",
+        "uid" : "11ac799498d6ff63",
+        "parentUid" : "fbd6226f5ebc755ee924a49258d70c4e",
+        "status" : "failed",
+        "time" : {
+          "start" : 1679154512621,
+          "stop" : 1679154526112,
+          "duration" : 13491
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "abc@c.com", " abc@c.com", "Incorrect username or password" ]
+      } ],
+      "uid" : "fbd6226f5ebc755ee924a49258d70c4e"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

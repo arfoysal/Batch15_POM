@@ -1,0 +1,111 @@
+[ {
+  "uid" : "69f05e9d9242fd34",
+  "name" : "testLoginwithInvalidPhoneNumber",
+  "time" : {
+    "start" : 1679154479836,
+    "stop" : 1679154492986,
+    "duration" : 13150
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "aaf710ce11346486",
+  "name" : "testLoginwithInvalidPhoneNumber",
+  "time" : {
+    "start" : 1679154580782,
+    "stop" : 1679154599452,
+    "duration" : 18670
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "aa231444400374f9",
+  "name" : "testLoginwithInvalidPhoneNumber",
+  "time" : {
+    "start" : 1679154667589,
+    "stop" : 1679154822223,
+    "duration" : 154634
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d3a6ebde0feb7c77",
+  "name" : "testLoginwithInvalidPhoneNumber",
+  "time" : {
+    "start" : 1679153502123,
+    "stop" : 1679153520217,
+    "duration" : 18094
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5b92e06313efb429",
+  "name" : "TestHelpCenterPageTitle2",
+  "time" : {
+    "start" : 1678638850953,
+    "stop" : 1678638888926,
+    "duration" : 37973
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "11ac799498d6ff63",
+  "name" : "testLoginwithInvalidPhoneNumber",
+  "time" : {
+    "start" : 1679154512621,
+    "stop" : 1679154526112,
+    "duration" : 13491
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "57577b167162df1c",
+  "name" : "Test Help center page Title",
+  "time" : {
+    "start" : 1679154579008,
+    "stop" : 1679154590911,
+    "duration" : 11903
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fd4a3afd5d8df6c1",
+  "name" : "testLoginwithInvalidPhoneNumber",
+  "time" : {
+    "start" : 1679154494612,
+    "stop" : 1679154511023,
+    "duration" : 16411
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "4f797fb8c90d707b",
+  "name" : "testLoginwithInvalidPhoneNumber",
+  "time" : {
+    "start" : 1679154645434,
+    "stop" : 1679154665835,
+    "duration" : 20401
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "13a416ddd4730afd",
+  "name" : "testLoginwithInvalidPhoneNumber",
+  "time" : {
+    "start" : 1679154601167,
+    "stop" : 1679154643865,
+    "duration" : 42698
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7cb7a22cfbd7de0b",
+  "name" : "TestHelpCenterPageURL",
+  "time" : {
+    "start" : 1679154593898,
+    "stop" : 1679154606630,
+    "duration" : 12732
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

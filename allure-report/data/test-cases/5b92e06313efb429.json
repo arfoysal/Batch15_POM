@@ -1,0 +1,98 @@
+{
+  "uid" : "5b92e06313efb429",
+  "name" : "TestHelpCenterPageTitle2",
+  "fullName" : "testcases.DarazHelpCenterPageTest.TestHelpCenterPageTitle2",
+  "historyId" : "398f13f7a01baee1a0d2aed240e30fe7",
+  "time" : {
+    "start" : 1678638850953,
+    "stop" : 1678638888926,
+    "duration" : 37973
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "setBrowser",
+    "time" : {
+      "start" : 1678638849426,
+      "stop" : 1678638850948,
+      "duration" : 1522
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "quitBrowser",
+    "time" : {
+      "start" : 1678638888929,
+      "stop" : 1678638889594,
+      "duration" : 665
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "testcases.DarazHelpCenterPageTest"
+  }, {
+    "name" : "testClass",
+    "value" : "testcases.DarazHelpCenterPageTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestHelpCenterPageTitle2"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "testcases.DarazHelpCenterPageTest"
+  }, {
+    "name" : "host",
+    "value" : "arfoysal"
+  }, {
+    "name" : "thread",
+    "value" : "9276@arfoysal.TestNG-test=Test-2(16)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5b92e06313efb429.json",
+  "parameterValues" : [ ]
+}
